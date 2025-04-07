@@ -1,0 +1,3 @@
+Moveables_EN = {
+    WTF_Weslley_Sign = "WTF Weslley Sign",
+}
