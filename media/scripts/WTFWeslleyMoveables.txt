@@ -1,0 +1,17 @@
+
+module WTFWeslley {
+	
+	imports {
+		Base
+	}
+	
+	item Mov_WTFWeslley
+	{
+		DisplayCategory 	= Furniture,
+		Type				= Moveable,
+		Icon				= Poster,
+		Weight		  		= 0.5,
+		DisplayName			= WTF Weslley Poster,
+		WorldObjectSprite	= wtf-weslley_tiles_1,
+	}
+}

@@ -1,0 +1,6 @@
+version=1
+id=3460662509
+title=WTF Weslley
+description=A mod for us to party with our favorite friend
+tags=Build 41;Misc
+visibility=public
