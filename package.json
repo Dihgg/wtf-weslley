@@ -1,6 +1,6 @@
 {
   "name": "wtf-weslley",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Zomboid mod to make fun with our Favorite Friend",
   "scripts": {
     "release": "standard-version",
